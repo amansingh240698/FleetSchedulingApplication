@@ -15,9 +15,7 @@ To get started, first clone the repository using the following command:
 Then, navigate to the project directory:  
 `cd FleetSchedulingApplication`
 
-Now, you can build and run the application with Maven:  
-`mvn clean install`  
-`mvn spring-boot:run`
+Instead of using Maven, you can directly run the main method of the application. To do so, open the project in your favorite IDE (like IntelliJ IDEA, Eclipse, or Visual Studio Code), and run the main method from the FleetSchedulingApplication class. The main method will launch the Spring Boot application.
 
 By default, the application will load truck and charger data from `src/main/resources/input.txt` and execute scheduling algorithms with the available `timeAvailable`.
 
