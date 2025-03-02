@@ -11,7 +11,7 @@ The Fleet Scheduling Application is designed to efficiently allocate charging re
 Before running the application, ensure you have the following installed: Java 11 or later (`java -version`), Maven (`mvn -version`), and Spring Boot (`spring --version`). 
 
 To get started, first clone the repository using the following command:  
-`git clone https://github.com/your-username/FleetSchedulingApplication.git`  
+`git clone https://github.com/amansingh240698/FleetSchedulingApplication.git`  
 Then, navigate to the project directory:  
 `cd FleetSchedulingApplication`
 
