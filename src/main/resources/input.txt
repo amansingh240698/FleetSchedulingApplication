@@ -1,0 +1,13 @@
+Trucks:
+1,100.0,20.0
+2,120.0,50.0
+3,80.0,30.0
+4,150.0,10.0
+
+Chargers:
+101,10.0
+102,20.0
+
+TimeAvailable: 10
+
+Strategy: SHORTEST_CHARGING_TIME
